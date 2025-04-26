@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 //Model for this assignment
-public class Numbers implements Model {
+public class Numbers implements buggy_source_file {
 
 	//Variables for Model
 	ArrayList<Double> numbers;
